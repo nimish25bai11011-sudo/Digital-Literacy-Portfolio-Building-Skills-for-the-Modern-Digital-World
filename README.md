@@ -27,12 +27,12 @@ For this task, I created an infographic using Canva to explain basic concepts of
 ---
 
 ### Module 2 – Digital Portfolio
-I created profiles on GitHub, LinkedIn, and Kaggle. These platforms are useful for building a professional identity. GitHub helps in sharing projects, LinkedIn is useful for networking, and Kaggle helps in improving technical skills.
+I created profiles on GitHub, LinkedIn . These platforms are useful for building a professional identity. GitHub helps in sharing projects, LinkedIn is useful for networking.
 
 ---
 
 ### Module 3 – Platforms Exploration
-I completed a beginner-level coding problem on HackerRank, which helped me understand basic programming logic. I also created a Google Form quiz with five questions related to digital literacy and collected responses.
+ I  created a Google Form quiz with five questions related to digital literacy and collected responses.
 
 ---
 
@@ -50,8 +50,6 @@ I studied phishing as a cybercrime case. I learned how attackers trick users int
 - Canva  
 - GitHub  
 - LinkedIn  
-- Kaggle  
-- HackerRank  
 - Google Forms  
 
 ---
